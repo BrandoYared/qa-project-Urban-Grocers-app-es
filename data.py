@@ -7,7 +7,4 @@ user_body = {
     "phone": "+11234567890",
     "address": "123 Acapulco, Mexico"
 }
-def longitud_nombre(nombre):
-    return len(nombre)
-def longitud_caracteres_menor(caracteres):
-    return len(caracteres)
+kit_body = { "name": "a"}
